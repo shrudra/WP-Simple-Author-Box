@@ -4,6 +4,7 @@ Plugin Name: WP Simple Author Box
 Description: Adds a custom author box to your WordPress posts.
 Author: Sakhawat Hossain Rudra 
 Repo: https://github.com/shrudra/WP-Simple-Author-Box/
+Licence: GPL-3.0 license
 */
 
 // Enqueue styles for the author box
