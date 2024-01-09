@@ -1,7 +1,9 @@
 <?php
 /*
-Plugin Name: Custom Author Box
+Plugin Name: WP Simple Author Box
 Description: Adds a custom author box to your WordPress posts.
+Author: Sakhawat Hossain Rudra 
+Repo: https://github.com/shrudra/WP-Simple-Author-Box/
 */
 
 // Enqueue styles for the author box
