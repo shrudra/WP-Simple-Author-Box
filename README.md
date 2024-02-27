@@ -1,8 +1,6 @@
 # WP-Simple-Author-Box
 The WP Simple Author Box Plugin that displays a simple author box to your theme
 
-# Screenshot
-![Screenshot](screenshot.jpg "screenshot")
 # Installation:
 
 1. Download the plugin zip file from GitHub.
