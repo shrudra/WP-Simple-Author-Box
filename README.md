@@ -19,4 +19,4 @@ If you find value in what I'm creating, a small coffee donation would be a wonde
 
 # License
 
-WP Simple Author Box is open-source plugin licensed under the MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
+WP Simple Author Box is open-source plugin licensed under the GNU General Public License v3.0. Please see [LICENSE](LICENSE) for more information.
