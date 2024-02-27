@@ -11,7 +11,7 @@ The WP Simple Author Box Plugin that displays a simple author box to your theme
 
 Your contributions are highly encouraged and greatly appreciated! I'm always delighted to receive feedback or pull requests on GitHub 😊.
 
-If you're new to GitHub, please read [CONTRIBUTING.md](CONTRIBUTING.md).  Please be sure to follow our code of conduct, which is adapted from the  ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg) [Code of Conduct](CODE_OF_CONDUCT.md) too. 
+Please be sure to follow our code of conduct, which is adapted from the  ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg) [Code of Conduct](CODE_OF_CONDUCT.md) too. 
 
 If you find value in what I'm creating, a small coffee donation would be a wonderful gesture ☕. Your support enables me to invest more time in Open-Source Software projects like this 🙌🏻.
 
