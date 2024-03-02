@@ -11,8 +11,6 @@ The WP Simple Author Box plugin puts a box at the end of your posts. It shows th
 
 === Contributing ===
 
-Your contributions are highly encouraged and greatly appreciated! I'm always delighted to receive feedback or pull requests on GitHub 😊.
+Your contributions are highly encouraged and greatly appreciated! I'm always delighted to receive feedback or pull requests on GitHub .
 
-
-# License
 License: GPLv3.0
