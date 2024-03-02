@@ -1,5 +1,5 @@
 # WP-Simple-Author-Box
-The WP Simple Author Box Plugin that displays a simple author box to your theme
+The WP Simple Author Box plugin puts a box at the end of your posts. It shows the author's name, picture, and a short description. 
 
 # Installation:
 
